@@ -3,7 +3,7 @@
 On vous demande d'auditer ce site en cours de construction à la recherche d'un flag.
 
 
-Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteur : [Cryptanalyse](https://x.com/Cryptanalyse)
 
 Origine : [Babel Web](https://hackropole.fr/fr/challenges/web/fcsc2020-web-babel-web/)
 
